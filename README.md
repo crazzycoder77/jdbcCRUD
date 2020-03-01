@@ -1,24 +1,5 @@
 # jdbcCRUD
 Basic Create Read Update Delete Using JDBC and MySQL
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@crazzycoder77 
-crazzycoder77
-/
-jdbcCRUD
-0
-00
- Code Issues 0 Pull requests 0 Actions Projects 0 Wiki Security Insights Settings
-jdbcCRUD/readme.txt
-@crazzycoder77 crazzycoder77 Add files via upload
-21b978a 5 minutes ago
-151 lines (57 sloc)  3.15 KB
   
 Project Structure
 
