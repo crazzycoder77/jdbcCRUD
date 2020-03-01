@@ -1,0 +1,6 @@
+989/MAA,Chennai,Mumbai,5000,10
+205/DEL,Delhi,Chennai,5000,5
+560-KAA,Chennai,Goa,8000,2
+989\MLA,Mumbai,Mumbai,5000,10
+205/,Delhi,Channai,5000,5
+5607-AAA,Kolkata,Goa,8000,2
