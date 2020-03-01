@@ -15,7 +15,7 @@ Basic Create Read Update Delete Using JDBC and MySQL
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-##Project Structure
+## Project Structure
 ----------------------
 
 CalculateCost-> Project Name
