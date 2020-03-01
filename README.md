@@ -1,11 +1,22 @@
-# jdbcCRUD
+## jdbcCRUD
+
 Basic Create Read Update Delete Using JDBC and MySQL
   
-Project Structure
+## Built With
 
+* [JAVA](https://www.java.com/en/)
+* [MySQL](https://www.mysql.com/)
+
+## Authors
+
+* **Praveen Mishra** - *Initial work* - [crazzycoder77](https://github.com/crazzycoder77)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+
+##Project Structure
 ----------------------
-
- 
 
 CalculateCost-> Project Name
 
